@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/stats-preview-card-component-uo2kXCTk1d)
+- Live Site URL: [Github Page](https://kosmonavtsv.github.io/stats-preview-card-component-main)
 
 ## Useful resources
 
