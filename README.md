@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/stats-preview-card-component-uo2kXCTk1d)
-- Live Site URL: [Github Page](https://kosmonavtsv.github.io/stats-preview-card-component-main)
+- Live Site URL: [Github Page](https://kosmonavtsv.github.io/fm-stats-preview-card-component-main)
 
 ## Useful resources
 
